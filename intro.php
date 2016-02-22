@@ -1,4 +1,7 @@
-<?php $file = basename(__FILE__, '.php'); ?>
+<?php 
+	$file = basename(__FILE__, '.php');
+	$title = 'Introduction'; 
+?>
 <?php include('php/header.php') ?>
 <div class="container container-main">
 	<div class="row">

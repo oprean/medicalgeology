@@ -1,4 +1,7 @@
-<?php $file = basename(__FILE__, '.php'); ?>
+<?php 
+	$file = basename(__FILE__, '.php');
+	$title = 'Home'; 
+?>
 <?php include('php/header.php') ?>
 	<?php include('php/carousel.php') ?>
 	<div class="container marketing">
