@@ -11,7 +11,7 @@
         </div>
         </div>
 	</div>
-	<div class="container marketing">
+	<!--div class="container marketing">
 	<div class="row">
         <div class="col-lg-4">
           <img width="140" height="140" alt="Generic placeholder image" src="images/earth1.jpg" class="img-circle">
@@ -23,5 +23,5 @@
           <img width="140" height="140" alt="Generic placeholder image" src="images/earth3.jpg" class="img-circle">
         </div>
       </div>
-	</div>
+	</div-->
 <?php include('php/footer.php') ?>
