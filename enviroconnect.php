@@ -26,7 +26,7 @@
 				<a href="#">Dr. Mirabela Cristea</a> - researcher
 			</li>
 			<li>
-				<a href="#">Dr. Alexandra T. Gruia</a> - researcher
+				<a href="data/CV_EN_ALEXANDRA_GRUIA.pdf">Dr. Alexandra T. Gruia</a> - researcher
 			</li>
 			<li>
 				<a href="#">Dr. Camelia Oprean</a> - researcher
@@ -35,16 +35,16 @@
 				<a href="#">Dr. Ada Cean</a> - researcher
 			</li>
 			<li>
-				<a href="#">Ileana Scurtu</a> - PhD student
-			</li>
-			<li>
-				<a href="#">Adelina Gheju</a> - PhD student
-			</li>
-			<li>
 				<a href="#">Dr. Simona Anghel</a> - researcher
 			</li>
 			<li>
 				<a href="#">Dr. Oana Gavriliuc</a> - researcher
+			</li>
+			<li>
+				<a href="#">Ileana Scurtu</a> - PhD student
+			</li>
+			<li>
+				<a href="#">Adelina Gheju</a> - PhD student
 			</li>
 		</ul>
 	</div>

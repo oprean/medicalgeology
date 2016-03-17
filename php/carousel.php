@@ -6,35 +6,65 @@
         <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
         <li data-target="#myCarousel" data-slide-to="1"></li>
         <li data-target="#myCarousel" data-slide-to="2"></li>
+        <li data-target="#myCarousel" data-slide-to="3"></li>
+        <li data-target="#myCarousel" data-slide-to="4"></li>
+        <li data-target="#myCarousel" data-slide-to="5"></li>
+        <li data-target="#myCarousel" data-slide-to="6"></li>
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="first-slide" src="images/carousel/3.jpg" alt="First slide">
+          <img class="first-slide img-responsive" src="images/carousel/carousel_01.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
               <h1>Environmental factors and epigenetic mechanisms – a common link in chronic kidney diseases</h1>
-              <p>UEFISCDI PROJECT  PN-II-RU-TE-2014-4 -181/2015</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Some link</a></p>
             </div>
           </div>
         </div>
         <div class="item">
-          <img class="second-slide" src="images/carousel/2.jpg" alt="Second slide">
+          <img class="second-slide" src="images/carousel/carousel_02.jpg" alt="Second slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Another example headline.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
+              <h1>Environmental factors and epigenetic mechanisms – a common link in chronic kidney diseases</h1>
             </div>
           </div>
         </div>
         <div class="item">
-          <img class="third-slide" src="images/carousel/1.jpg" alt="Third slide">
+          <img class="third-slide" src="images/carousel/carousel_03.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>One more for good measure.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Other link</a></p>
+              <h1>Environmental factors and epigenetic mechanisms – a common link in chronic kidney diseases</h1>
+            </div>
+          </div>
+        </div>
+		<div class="item">
+          <img class="a4-slide" src="images/carousel/carousel_04.jpg" alt="4 slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Environmental factors and epigenetic mechanisms – a common link in chronic kidney diseases</h1>
+            </div>
+          </div>
+		</div>
+		<div class="item">
+          <img class="a5-slide" src="images/carousel/carousel_05.jpg" alt="5 slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Environmental factors and epigenetic mechanisms – a common link in chronic kidney diseases</h1>
+            </div>
+          </div>
+        </div>
+		<div class="item">
+          <img class="a6-slide" src="images/carousel/carousel_06.jpg" alt="6 slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Environmental factors and epigenetic mechanisms – a common link in chronic kidney diseases</h1>
+            </div>
+          </div>
+        </div>
+		<div class="item">
+          <img class="a7-slide" src="images/carousel/carousel_07.jpg" alt="7 slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Environmental factors and epigenetic mechanisms – a common link in chronic kidney diseases</h1>
             </div>
           </div>
         </div>
