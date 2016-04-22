@@ -17,19 +17,19 @@
 		Team members
 		<ul class="list-unstyled">
 			<li>
-				<a href="#">Dr. Calin A. Tatu</a> - principal investigator
+				<a href="data/cv_calin.pdf">Dr. Calin A. Tatu</a> - principal investigator
 			</li>
 			<li>
 				<a href="#">Dr. Alexandra Ivan</a> - researcher
 			</li>
 			<li>
-				<a href="#">Dr. Mirabela Cristea</a> - researcher
+				<a href="data/cv_mira.pdf">Dr. Mirabela Cristea</a> - researcher
 			</li>
 			<li>
-				<a href="data/CV_EN_ALEXANDRA_GRUIA.pdf">Dr. Alexandra T. Gruia</a> - researcher
+				<a href="data/cv_alex.pdf">Dr. Alexandra T. Gruia</a> - researcher
 			</li>
 			<li>
-				<a href="#">Dr. Camelia Oprean</a> - researcher
+				<a href="data/cv_cami.pdf">Dr. Camelia Oprean</a> - researcher
 			</li>
 			<li>
 				<a href="#">Dr. Ada Cean</a> - researcher
@@ -41,10 +41,10 @@
 				<a href="#">Dr. Oana Gavriliuc</a> - researcher
 			</li>
 			<li>
-				<a href="#">Ileana Scurtu</a> - PhD student
+				<a href="data/cv_ileana.pdf">Ileana Scurtu</a> - PhD student
 			</li>
 			<li>
-				<a href="#">Adelina Gheju</a> - PhD student
+				<a href="data/cv_ade.pdf">Adelina Gheju</a> - PhD student
 			</li>
 		</ul>
 	</div>
